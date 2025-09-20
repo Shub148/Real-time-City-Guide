@@ -1,0 +1,5 @@
+{
+  "name": "CityGlide - Real-Time Transport",
+  "description": "A web application providing real-time tracking of public transport in smaller cities. It displays live bus locations on a map, shows route information, and provides estimated arrival times to help commuters plan their journeys effectively.",
+  "requestFramePermissions": []
+}
